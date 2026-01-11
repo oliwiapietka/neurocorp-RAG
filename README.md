@@ -4,7 +4,7 @@
 
 ### Core components: vector DB manager, embedding models, ingestion pipeline, retrieval/reranking, storage (GridFS), document processor (PDF → text+images), and agent orchestration.
 
-# DEMO
+## DEMO
 
 https://github.com/user-attachments/assets/0d77280b-b7ac-4a4b-b262-06a3cfb2af4f
 
@@ -16,6 +16,9 @@ https://github.com/user-attachments/assets/8047e384-3da9-4f94-93f0-7c1be37b9a25
 
 
 https://github.com/user-attachments/assets/4afb197a-76cc-4a6d-80a8-114b9eb34e06
+
+
+https://github.com/user-attachments/assets/7f5267d4-e6ea-4145-8d48-602af751d6b3
 
 
 
