@@ -1,8 +1,8 @@
 # **NEUROCORP RAG** 🤖🧠💬
 
-## Purpose: This RAG (Retrieval-Augmented Generation) system ingests documents (PDFs, images), extracts text and visual features, indexes multimodal vectors into Qdrant, and serves hybrid semantic search + LLM responses.
+### Purpose: This RAG (Retrieval-Augmented Generation) system ingests documents (PDFs, images), extracts text and visual features, indexes multimodal vectors into Qdrant, and serves hybrid semantic search + LLM responses.
 
-## Core components: vector DB manager, embedding models, ingestion pipeline, retrieval/reranking, storage (GridFS), document processor (PDF → text+images), and agent orchestration.
+### Core components: vector DB manager, embedding models, ingestion pipeline, retrieval/reranking, storage (GridFS), document processor (PDF → text+images), and agent orchestration.
 
 ## DEMO
 
